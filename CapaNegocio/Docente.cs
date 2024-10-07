@@ -41,12 +41,13 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "Insert into TDocente values(@CodDocente,@DoAPaterno,@DoAMaterno,@DoNombres)";
+                string consulta = "Insert into TDocente values(@CodDocente,@DoAPaterno,@DoAMaterno,@DoNombres,@DoUsuario)";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodDocente", codDocente);
                 comando.Parameters.AddWithValue("@DoAPaterno", DoAPaterno);
                 comando.Parameters.AddWithValue("@DoAMaterno", DoAMaterno);
                 comando.Parameters.AddWithValue("@DoNombres", DoNombre);
+                comando.Parameters.AddWithValue("@DoUsuario", NomUsuario);
                 conexion.Open();
 
                 byte i = Convert.ToByte(comando.ExecuteNonQuery());
@@ -93,11 +94,12 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "Update TDocente set APaterno=@DoAPaterno,AMaterno = @DoAMaterno,Nombres = @DoNombres where CodDocente=@CodDocente";
+                string consulta = "Update TDocente set APaterno=@DoAPaterno,AMaterno = @DoAMaterno,Nombres = @DoNombres, Usuario = @DoUsuario where CodDocente=@CodDocente";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@DoAPaterno", DoAPaterno);
                 comando.Parameters.AddWithValue("@DoAMaterno", DoAMaterno);
                 comando.Parameters.AddWithValue("@DoNombres", DoNombre);
+                comando.Parameters.AddWithValue("@DoUsuario", NomUsuario);
                 comando.Parameters.AddWithValue("@CodDocente", codDocente);
                 conexion.Open();
 

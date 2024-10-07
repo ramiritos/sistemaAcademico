@@ -10,3 +10,9 @@ D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.c
 D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Continental\7\Construcción de software\Semana 6\CapaNegocio\obj\Debug\CapaNegocio.pdb

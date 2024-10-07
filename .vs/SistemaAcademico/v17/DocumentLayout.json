@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capanegocio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|d:\\continental\\7\\construcci\u00F3n de software\\semana 6\\capaprensentacion\\privado\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmcarrera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capaprensentacion\\privado\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmalumno.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|d:\\continental\\7\\construcci\u00F3n de software\\semana 6\\capaprensentacion\\privado\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmdocente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capanegocio\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|d:\\continental\\7\\construcci\u00F3n de software\\semana 6\\capaprensentacion\\privado\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmdocente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capaprensentacion\\privado\\frmasignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmasignatura.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capanegocio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capanegocio\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189DC36A-33DC-40F9-BD70-C55717E4F095}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capaprensentacion\\privado\\frmasignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmasignatura.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|d:\\continental\\7\\construcci\u00F3n de software\\semana 6\\capaprensentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\capaprensentacion\\privado\\frmcarrera.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\frmcarrera.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Site.Master",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Site.Master",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Site.Master",
+              "RelativeToolTip": "CapaPrensentacion\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T23:03:28.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAsignatura.aspx",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAsignatura.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmAsignatura.aspx",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAsignatura.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmAsignatura.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T22:24:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Asignatura.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Asignatura.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Asignatura.cs",
+              "RelativeToolTip": "CapaNegocio\\Asignatura.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Alumno.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Alumno.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Alumno.cs",
+              "RelativeToolTip": "CapaNegocio\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAsignatura.aspx.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAsignatura.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmAsignatura.aspx.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAsignatura.aspx.cs",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmAsignatura.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDocente.aspx.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmDocente.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmDocente.aspx.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmDocente.aspx.cs",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmDocente.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Docente.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Docente.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Docente.cs",
+              "RelativeToolTip": "CapaNegocio\\Docente.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDocente.aspx",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmDocente.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmDocente.aspx",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmDocente.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmDocente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T22:24:23.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAlumno.aspx",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAlumno.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmAlumno.aspx",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmAlumno.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmAlumno.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T22:24:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarrera.aspx",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmCarrera.aspx",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmCarrera.aspx",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmCarrera.aspx",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmCarrera.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T22:24:23.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Carrera.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Carrera.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaNegocio\\Carrera.cs",
+              "RelativeToolTip": "CapaNegocio\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCarrera.aspx.cs",
+              "DocumentMoniker": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmCarrera.aspx.cs",
+              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\frmCarrera.aspx.cs",
+              "ToolTip": "D:\\Continental\\7\\Construcci\u00F3n de software\\Semana 6\\CapaPrensentacion\\Privado\\frmCarrera.aspx.cs",
+              "RelativeToolTip": "CapaPrensentacion\\Privado\\frmCarrera.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAhwFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:24:23.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

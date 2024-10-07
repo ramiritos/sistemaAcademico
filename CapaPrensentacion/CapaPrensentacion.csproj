@@ -123,7 +123,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
-    <Content Include="Privado\fmrDocente.aspx" />
+    <Content Include="Privado\frmDocente.aspx" />
     <Content Include="Privado\frmAlumno.aspx" />
     <Content Include="Privado\frmAsignatura.aspx" />
     <Content Include="Privado\frmCarrera.aspx" />
@@ -213,12 +213,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Privado\fmrDocente.aspx.cs">
-      <DependentUpon>fmrDocente.aspx</DependentUpon>
+    <Compile Include="Privado\frmDocente.aspx.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Privado\fmrDocente.aspx.designer.cs">
-      <DependentUpon>fmrDocente.aspx</DependentUpon>
+    <Compile Include="Privado\frmDocente.aspx.designer.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Privado\frmAlumno.aspx.cs">
       <DependentUpon>frmAlumno.aspx</DependentUpon>

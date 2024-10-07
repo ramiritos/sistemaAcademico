@@ -27,7 +27,7 @@ namespace CapaNegocio
                 SqlDataAdapter adapter = new SqlDataAdapter(consulta, conexion);
                 DataTable table = new DataTable();
                 adapter.Fill(table);
-                return table;
+                return table; 
             }
         }
         public bool Agregar()
