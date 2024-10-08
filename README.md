@@ -7,4 +7,4 @@
 - Visual Studio 2022
 - Microsoft SQL Server Management Studio
 - Plataforma web somee.com
-- Plataforma web somee.com
+- Boostrap
